@@ -1,9 +1,9 @@
 {
-  "versionCode": 24,
-  "versionName": "0.23.0",
-  "apkUrl": "https://github.com/vozlo/vozlo-updates/releases/download/v0.23.0/vozlo-v0.23.0.apk",
-  "sha256": "743d3bad5dfbe5633620ed97ecf82d502834621e9503b515adad8404294c1b07",
-  "bytes": 17429790,
-  "notes": "Signed VOZLO release 0.23.0",
+  "versionCode": 25,
+  "versionName": "0.24.0",
+  "apkUrl": "https://github.com/vozlo/vozlo-updates/releases/download/v0.24.0/vozlo-v0.24.0.apk",
+  "sha256": "6df48d21698028e74f76428b3d4eeec1d0d613a8bf26a3c6bc6e56739f50b90d",
+  "bytes": 18869619,
+  "notes": "Signed VOZLO release 0.24.0",
   "required": false
 }
