@@ -1,9 +1,9 @@
 {
-  "versionCode": 37,
-  "versionName": "0.34.2",
-  "apkUrl": "https://github.com/vozlo/vozlo-updates/releases/download/v0.34.2/vozlo-v0.34.2.apk",
-  "sha256": "ef6f7456bd5255987638e2f36bade0da536241fb6bf7a1255e3b76d920667477",
-  "bytes": 18970575,
-  "notes": "VOZLO v0.34.2 \u2014 Pembaikan bacaan gambar rujukan AI Storyboard Cloudflare Free dan diagnostik pemilik. Had 6 cubaan sehari, simpan lokal. Firebase Spark dikekalkan. Fungsi terhad kepada akaun pemilik. Tiada caj AI berbayar diaktifkan.",
+  "versionCode": 38,
+  "versionName": "0.35.0",
+  "apkUrl": "https://github.com/vozlo/vozlo-updates/releases/download/v0.35.0/vozlo-v0.35.0.apk",
+  "sha256": "e2d14ca41fd0ea36e6364849ebffd59380b6cd8cdf3b03047dda2e2a0bfb8c7c",
+  "bytes": 18986899,
+  "notes": "VOZLO v0.35.0 \u2014 AI Freedom: Gemini jana prompt gambar setiap babak dan prompt video 10s berasingan; kongsi ke AI pilihan, import foto per babak dan semak sebelum lulus. Cloudflare FLUX dimatikan. Firebase Spark dikekalkan. Fungsi terhad kepada akaun pemilik. Tiada caj AI berbayar diaktifkan.",
   "required": false
 }
