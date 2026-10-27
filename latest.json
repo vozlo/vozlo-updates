@@ -1,9 +1,9 @@
 {
-  "versionCode": 40,
-  "versionName": "0.36.0",
-  "apkUrl": "https://github.com/vozlo/vozlo-updates/releases/download/v0.36.0/vozlo-v0.36.0.apk",
-  "sha256": "ec19771c7c288dfde05aa05425487453b761098370bd93277973d81a8755a8d4",
-  "bytes": 19003287,
-  "notes": "VOZLO v0.36.0 \u2014 Creative Kit: UI ringkas 3 bahagian, Production Kit kongsi prompt English dan foto produk/watak, reference cast foto pilihan, pemakaian pakaian dan storyboard lebih tepat. Firebase Spark Free; keberkesanan share bergantung aplikasi penerima.",
+  "versionCode": 41,
+  "versionName": "0.36.1",
+  "apkUrl": "https://github.com/vozlo/vozlo-updates/releases/download/v0.36.1/vozlo-v0.36.1.apk",
+  "sha256": "9ec1f01e3d056557b2cf50f0072b0d6b819aafd377d7b088188c7971bada3acf",
+  "bytes": 18986899,
+  "notes": "VOZLO v0.36.1 \u2014 Satu butang Hantar ke AI Pilihan sahaja. Baiki foto model preset Hana/Alya yang sebelum ini tidak disimpan. Kongsi satu imej rujukan gabungan produk + model dahulu beserta foto asal, jika AI menerima lampiran. AI teks dan Firebase Spark kekal free.",
   "required": false
 }
