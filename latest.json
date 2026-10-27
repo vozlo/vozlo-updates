@@ -1,9 +1,9 @@
 {
-  "versionCode": 39,
-  "versionName": "0.35.1",
-  "apkUrl": "https://github.com/vozlo/vozlo-updates/releases/download/v0.35.1/vozlo-v0.35.1.apk",
-  "sha256": "8fb3b35478653f813bad677c208271e0165e538025986caf9e4e09a86d18d49e",
-  "bytes": 18986899,
-  "notes": "VOZLO v0.35.1 \u2014 Storyboard penuh: satu prompt English menghasilkan grid visual 6 shot (2 x 3) untuk video BM 10 saat, berasaskan babak projek. Import SATU papan visual AI pilihan, kemudian jana prompt video berasingan. Butang dijenamakan VOZLO, Cloudflare FLUX kekal dimatikan, Firebase Spark Free.",
+  "versionCode": 40,
+  "versionName": "0.36.0",
+  "apkUrl": "https://github.com/vozlo/vozlo-updates/releases/download/v0.36.0/vozlo-v0.36.0.apk",
+  "sha256": "ec19771c7c288dfde05aa05425487453b761098370bd93277973d81a8755a8d4",
+  "bytes": 19003287,
+  "notes": "VOZLO v0.36.0 \u2014 Creative Kit: UI ringkas 3 bahagian, Production Kit kongsi prompt English dan foto produk/watak, reference cast foto pilihan, pemakaian pakaian dan storyboard lebih tepat. Firebase Spark Free; keberkesanan share bergantung aplikasi penerima.",
   "required": false
 }
