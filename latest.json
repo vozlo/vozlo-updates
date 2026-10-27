@@ -1,9 +1,9 @@
 {
-  "versionCode": 38,
-  "versionName": "0.35.0",
-  "apkUrl": "https://github.com/vozlo/vozlo-updates/releases/download/v0.35.0/vozlo-v0.35.0.apk",
-  "sha256": "e2d14ca41fd0ea36e6364849ebffd59380b6cd8cdf3b03047dda2e2a0bfb8c7c",
+  "versionCode": 39,
+  "versionName": "0.35.1",
+  "apkUrl": "https://github.com/vozlo/vozlo-updates/releases/download/v0.35.1/vozlo-v0.35.1.apk",
+  "sha256": "8fb3b35478653f813bad677c208271e0165e538025986caf9e4e09a86d18d49e",
   "bytes": 18986899,
-  "notes": "VOZLO v0.35.0 \u2014 AI Freedom: Gemini jana prompt gambar setiap babak dan prompt video 10s berasingan; kongsi ke AI pilihan, import foto per babak dan semak sebelum lulus. Cloudflare FLUX dimatikan. Firebase Spark dikekalkan. Fungsi terhad kepada akaun pemilik. Tiada caj AI berbayar diaktifkan.",
+  "notes": "VOZLO v0.35.1 \u2014 Storyboard penuh: satu prompt English menghasilkan grid visual 6 shot (2 x 3) untuk video BM 10 saat, berasaskan babak projek. Import SATU papan visual AI pilihan, kemudian jana prompt video berasingan. Butang dijenamakan VOZLO, Cloudflare FLUX kekal dimatikan, Firebase Spark Free.",
   "required": false
 }
