@@ -1,9 +1,9 @@
 {
-  "versionCode": 36,
-  "versionName": "0.34.1",
-  "apkUrl": "https://github.com/vozlo/vozlo-updates/releases/download/v0.34.1/vozlo-v0.34.1.apk",
-  "sha256": "12aa510ae504898ab9ab5edc8b48820eefed4d7567f8fb1432bfbd747b16878c",
-  "bytes": 18970571,
-  "notes": "VOZLO v0.34.1 \u2014 Ujian peribadi AI Storyboard Cloudflare Free: gambar AI sebenar, rujukan produk, kawalan 6 cubaan sehari, simpan lokal. Firebase Spark dikekalkan. Fungsi terhad kepada akaun pemilik. Tiada caj AI berbayar diaktifkan.",
+  "versionCode": 37,
+  "versionName": "0.34.2",
+  "apkUrl": "https://github.com/vozlo/vozlo-updates/releases/download/v0.34.2/vozlo-v0.34.2.apk",
+  "sha256": "ef6f7456bd5255987638e2f36bade0da536241fb6bf7a1255e3b76d920667477",
+  "bytes": 18970575,
+  "notes": "VOZLO v0.34.2 \u2014 Pembaikan bacaan gambar rujukan AI Storyboard Cloudflare Free dan diagnostik pemilik. Had 6 cubaan sehari, simpan lokal. Firebase Spark dikekalkan. Fungsi terhad kepada akaun pemilik. Tiada caj AI berbayar diaktifkan.",
   "required": false
 }
