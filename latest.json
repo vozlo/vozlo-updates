@@ -1,9 +1,9 @@
 {
-  "versionCode": 44,
-  "versionName": "0.36.4",
-  "apkUrl": "https://github.com/vozlo/vozlo-updates/releases/download/v0.36.4/vozlo-v0.36.4.apk",
-  "sha256": "44056d60223a0fdbf3c6a9e62b2a702fe72761563d37500e69c11885e030775a",
+  "versionCode": 45,
+  "versionName": "0.36.5",
+  "apkUrl": "https://github.com/vozlo/vozlo-updates/releases/download/v0.36.5/vozlo-v0.36.5.apk",
+  "sha256": "29b4e2e61bde282c924c485bf7dfda8765d4ce3d5b7a7ffc1ae07b45fdf31677",
   "bytes": 19019671,
-  "notes": "VOZLO v0.36.4 \u2014 Betulkan aliran Master Frame untuk projek Direct Storyboard lama: boleh salin produk ke projek Master Frame tanpa memadam draf asal. Hantar ke AI Pilihan tidak lagi membuka galeri secara paksa apabila foto wajah model belum ada. Foto produk dan prompt tetap dikongsi; konsistensi wajah tanpa foto tidak dijamin. Login dan backup kekal.",
+  "notes": "VOZLO v0.36.5 \u2014 Master Frame: pilih watak Alya/Hana/Amir/Hakim dan tambah foto model sebenar jika mahu rupa konsisten. Tanpa foto, AI boleh hasilkan model fiksyen berdasarkan preset. Prompt Master Frame dan Storyboard kini mengarahkan AI menghasilkan imej, bukan pelan teks; storyboard 10s ialah satu papan enam panel. Pilih Create Image pada AI luaran.",
   "required": false
 }
