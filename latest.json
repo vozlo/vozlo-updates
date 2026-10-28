@@ -1,9 +1,9 @@
 {
-  "versionCode": 41,
-  "versionName": "0.36.1",
-  "apkUrl": "https://github.com/vozlo/vozlo-updates/releases/download/v0.36.1/vozlo-v0.36.1.apk",
-  "sha256": "9ec1f01e3d056557b2cf50f0072b0d6b819aafd377d7b088188c7971bada3acf",
-  "bytes": 18986899,
-  "notes": "VOZLO v0.36.1 \u2014 Satu butang Hantar ke AI Pilihan sahaja. Baiki foto model preset Hana/Alya yang sebelum ini tidak disimpan. Kongsi satu imej rujukan gabungan produk + model dahulu beserta foto asal, jika AI menerima lampiran. AI teks dan Firebase Spark kekal free.",
+  "versionCode": 42,
+  "versionName": "0.36.2",
+  "apkUrl": "https://github.com/vozlo/vozlo-updates/releases/download/v0.36.2/vozlo-v0.36.2.apk",
+  "sha256": "e4f1cb126ff146f527204d2367a39b05a329dfb15d41300dde4615e76156da32",
+  "bytes": 19019671,
+  "notes": "VOZLO v0.36.2 \u2014 Minimal UI: dashboard lebih kemas, dock ikon + long-press, pengurusan projek dengan menu ringkas, dan Studio kembali ke Master Frame \u2192 Storyboard \u2192 Video Prompt. Intelligence dipaparkan berkunci (preview sahaja; belum ada langganan). Firebase/login, backup .vzl dan AI sharing asal dikekalkan.",
   "required": false
 }
