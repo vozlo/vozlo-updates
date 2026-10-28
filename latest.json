@@ -1,9 +1,9 @@
 {
-  "versionCode": 43,
-  "versionName": "0.36.3",
-  "apkUrl": "https://github.com/vozlo/vozlo-updates/releases/download/v0.36.3/vozlo-v0.36.3.apk",
-  "sha256": "8060460687f82954169e279764c78fdc5232ce0d49a3f1c0f909778e8bbebff6",
-  "bytes": 19019667,
-  "notes": "VOZLO v0.36.3 \u2014 Studio 10s lebih ringkas: prompt Storyboard sebelum import/lulus, Home dan Projects lebih kemas, akses Update kembali pada header, dan Intelligence preview lebih minimal. Master Frame \u2192 Storyboard \u2192 Video Prompt. Login, Firebase, projek tempatan, backup .vzl dan pemilihan AI luaran kekal.",
+  "versionCode": 44,
+  "versionName": "0.36.4",
+  "apkUrl": "https://github.com/vozlo/vozlo-updates/releases/download/v0.36.4/vozlo-v0.36.4.apk",
+  "sha256": "44056d60223a0fdbf3c6a9e62b2a702fe72761563d37500e69c11885e030775a",
+  "bytes": 19019671,
+  "notes": "VOZLO v0.36.4 \u2014 Betulkan aliran Master Frame untuk projek Direct Storyboard lama: boleh salin produk ke projek Master Frame tanpa memadam draf asal. Hantar ke AI Pilihan tidak lagi membuka galeri secara paksa apabila foto wajah model belum ada. Foto produk dan prompt tetap dikongsi; konsistensi wajah tanpa foto tidak dijamin. Login dan backup kekal.",
   "required": false
 }
