@@ -1,9 +1,9 @@
 {
-  "versionCode": 50,
-  "versionName": "0.36.10",
-  "apkUrl": "https://github.com/vozlo/vozlo-updates/releases/download/v0.36.10/vozlo-v0.36.10.apk",
-  "sha256": "9dfd4f395cbc598cb1d4a55c55e0e111cd0ee4b044beb8301c9438be16481ef3",
-  "bytes": 19085207,
-  "notes": "VOZLO v0.36.10 \u2014 New simple Master Frame Studio: link/photo entry, internal AI product analysis, collapsed editable facts, video type/cast dropdown, honest 10s/9:16 labels, original ABOZ USP prompt, view/copy/share to chosen AI, manual image review. Original templates unchanged. No paid image API or MP4",
+  "versionCode": 51,
+  "versionName": "0.36.11",
+  "apkUrl": "https://github.com/vozlo/vozlo-updates/releases/download/v0.36.11/vozlo-v0.36.11.apk",
+  "sha256": "ba2aacaba3404087779d3fd93bced6acb426f642955a752486438c4cab9e35da",
+  "bytes": 19101591,
+  "notes": "VOZLO v0.36.11 \u2014 Fix Generate Master Frame opening Android Documents. On first use, explain optional one-time owner ABOZ TXT setup with exact GitHub source link and explicit Install action. Subsequent Generate directly compiles cached fingerprinted template and USP prompt. Existing .vzl/.zip backups untouched; no API, billing or storyboard changes",
   "required": false
 }
