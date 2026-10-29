@@ -1,9 +1,9 @@
 {
-  "versionCode": 49,
-  "versionName": "0.36.9",
-  "apkUrl": "https://github.com/vozlo/vozlo-updates/releases/download/v0.36.9/vozlo-v0.36.9.apk",
-  "sha256": "cdf48299b320803b7a344002502e9e9b486a96254193d3f926f9b251ceda5e16",
-  "bytes": 19052435,
-  "notes": "VOZLO v0.36.9 \u2014 Master Frame original ABOZ authority; USP-driven pose/framing; separate Wearable V6.3 for Hana 32 with real photo. Original V6.2 unchanged. Select TXT once, approve image manually. No paid image API, billing or MP4",
+  "versionCode": 50,
+  "versionName": "0.36.10",
+  "apkUrl": "https://github.com/vozlo/vozlo-updates/releases/download/v0.36.10/vozlo-v0.36.10.apk",
+  "sha256": "9dfd4f395cbc598cb1d4a55c55e0e111cd0ee4b044beb8301c9438be16481ef3",
+  "bytes": 19085207,
+  "notes": "VOZLO v0.36.10 \u2014 New simple Master Frame Studio: link/photo entry, internal AI product analysis, collapsed editable facts, video type/cast dropdown, honest 10s/9:16 labels, original ABOZ USP prompt, view/copy/share to chosen AI, manual image review. Original templates unchanged. No paid image API or MP4",
   "required": false
 }
