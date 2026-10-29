@@ -1,9 +1,9 @@
 {
-  "versionCode": 51,
-  "versionName": "0.36.11",
-  "apkUrl": "https://github.com/vozlo/vozlo-updates/releases/download/v0.36.11/vozlo-v0.36.11.apk",
-  "sha256": "ba2aacaba3404087779d3fd93bced6acb426f642955a752486438c4cab9e35da",
-  "bytes": 19101591,
-  "notes": "VOZLO v0.36.11 \u2014 Fix Generate Master Frame opening Android Documents. On first use, explain optional one-time owner ABOZ TXT setup with exact GitHub source link and explicit Install action. Subsequent Generate directly compiles cached fingerprinted template and USP prompt. Existing .vzl/.zip backups untouched; no API, billing or storyboard changes",
+  "versionCode": 52,
+  "versionName": "0.36.12",
+  "apkUrl": "https://github.com/vozlo/vozlo-updates/releases/download/v0.36.12/vozlo-v0.36.12.apk",
+  "sha256": "1cf159bb8d69d8047bc3bd14febc4d9db4f851c5b7138e67023041b086eb725c",
+  "bytes": 19117975,
+  "notes": "VOZLO v0.36.12 \u2014 One-tap Master Frame prompt via owner-only Cloudflare backend. No TXT download, file picker or GitHub browsing. Server fingerprint-pins immutable ABOZ Wearable V6.3 and fills verified USP/pose/cast Part B. Requires live owner-authenticated worker. No paid image API, billing, storyboard or video changes",
   "required": false
 }
