@@ -1,9 +1,9 @@
 {
-  "versionCode": 48,
-  "versionName": "0.36.8",
-  "apkUrl": "https://github.com/vozlo/vozlo-updates/releases/download/v0.36.8/vozlo-v0.36.8.apk",
-  "sha256": "d888bdc4d1d3b945f209f0e7f0c6939d03beaf103e5c349e7c97ed51f178b0da",
-  "bytes": 19052439,
-  "notes": "VOZLO v0.36.8 \u2014 Creative Director V2 owner test: Fix Aksi & Dialog percuma, hook BM bertenaga, demonstrasi ciri terbukti, tiada penyangkut atau blaus kedua jika Master Frame sudah on-body, enam shot dikunci kepada tiga aksi, CTA jelas, no POV conflict. Template asal ABOZ kekal. Tiada API imej berbayar, MP4 automatik atau billing",
+  "versionCode": 49,
+  "versionName": "0.36.9",
+  "apkUrl": "https://github.com/vozlo/vozlo-updates/releases/download/v0.36.9/vozlo-v0.36.9.apk",
+  "sha256": "cdf48299b320803b7a344002502e9e9b486a96254193d3f926f9b251ceda5e16",
+  "bytes": 19052435,
+  "notes": "VOZLO v0.36.9 \u2014 Master Frame original ABOZ authority; USP-driven pose/framing; separate Wearable V6.3 for Hana 32 with real photo. Original V6.2 unchanged. Select TXT once, approve image manually. No paid image API, billing or MP4",
   "required": false
 }
