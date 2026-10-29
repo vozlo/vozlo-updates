@@ -1,9 +1,9 @@
 {
-  "versionCode": 46,
-  "versionName": "0.36.6",
-  "apkUrl": "https://github.com/vozlo/vozlo-updates/releases/download/v0.36.6/vozlo-v0.36.6.apk",
-  "sha256": "f5c85b15a5c9489e6df1ef1c8be12c583c839276e95eb6ac914bbef07d4f82e5",
-  "bytes": 19036055,
-  "notes": "VOZLO v0.36.6 \u2014 Owner Test: import template TXT asal ABOZ dari Google Drive pada Master Frame dan Storyboard. VOZLO mengesahkan cap jari sumber, isi fakta projek dan kongsi prompt serta gambar rujukan ke AI pilihan. Template asal tidak dibundel dalam APK. Gunakan AI dengan fungsi jana imej; tiada penjanaan MP4 atau langganan diaktifkan.",
+  "versionCode": 47,
+  "versionName": "0.36.7",
+  "apkUrl": "https://github.com/vozlo/vozlo-updates/releases/download/v0.36.7/vozlo-v0.36.7.apk",
+  "sha256": "4dc9f34f6f7ab7123b7d729429389a0bef57267d0770925e211f64689d7c144c",
+  "bytes": 19036051,
+  "notes": "VOZLO v0.36.7 \u2014 Private Owner Test: Creative Direction V1. Opening dan CTA BM lebih bertenaga; demonstrasi berpandukan fakta produk; 3 babak dengan dialog disemak dan dikunci; storyboard universal ABOZ menerima hook, CTA, aksi serta aturan kesinambungan. Template Part A asal kekal. Tiada MP4, API imej berbayar, bil atau langganan diaktifkan.",
   "required": false
 }
