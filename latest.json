@@ -1,9 +1,9 @@
 {
-  "versionCode": 47,
-  "versionName": "0.36.7",
-  "apkUrl": "https://github.com/vozlo/vozlo-updates/releases/download/v0.36.7/vozlo-v0.36.7.apk",
-  "sha256": "4dc9f34f6f7ab7123b7d729429389a0bef57267d0770925e211f64689d7c144c",
-  "bytes": 19036051,
-  "notes": "VOZLO v0.36.7 \u2014 Private Owner Test: Creative Direction V1. Opening dan CTA BM lebih bertenaga; demonstrasi berpandukan fakta produk; 3 babak dengan dialog disemak dan dikunci; storyboard universal ABOZ menerima hook, CTA, aksi serta aturan kesinambungan. Template Part A asal kekal. Tiada MP4, API imej berbayar, bil atau langganan diaktifkan.",
+  "versionCode": 48,
+  "versionName": "0.36.8",
+  "apkUrl": "https://github.com/vozlo/vozlo-updates/releases/download/v0.36.8/vozlo-v0.36.8.apk",
+  "sha256": "d888bdc4d1d3b945f209f0e7f0c6939d03beaf103e5c349e7c97ed51f178b0da",
+  "bytes": 19052439,
+  "notes": "VOZLO v0.36.8 \u2014 Creative Director V2 owner test: Fix Aksi & Dialog percuma, hook BM bertenaga, demonstrasi ciri terbukti, tiada penyangkut atau blaus kedua jika Master Frame sudah on-body, enam shot dikunci kepada tiga aksi, CTA jelas, no POV conflict. Template asal ABOZ kekal. Tiada API imej berbayar, MP4 automatik atau billing",
   "required": false
 }
