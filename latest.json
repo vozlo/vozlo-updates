@@ -1,9 +1,9 @@
 {
-  "versionCode": 52,
-  "versionName": "0.36.12",
-  "apkUrl": "https://github.com/vozlo/vozlo-updates/releases/download/v0.36.12/vozlo-v0.36.12.apk",
-  "sha256": "1cf159bb8d69d8047bc3bd14febc4d9db4f851c5b7138e67023041b086eb725c",
-  "bytes": 19117975,
-  "notes": "VOZLO v0.36.12 \u2014 One-tap Master Frame prompt via owner-only Cloudflare backend. No TXT download, file picker or GitHub browsing. Server fingerprint-pins immutable ABOZ Wearable V6.3 and fills verified USP/pose/cast Part B. Requires live owner-authenticated worker. No paid image API, billing, storyboard or video changes",
+  "versionCode": 53,
+  "versionName": "0.36.13",
+  "apkUrl": "https://github.com/vozlo/vozlo-updates/releases/download/v0.36.13/vozlo-v0.36.13.apk",
+  "sha256": "b94f897a3b37f05ef825c135301c61c25eed52080cd5169402a74dec158d405c",
+  "bytes": 19240404,
+  "notes": "VOZLO Creator V2 owner-pilot: refreshed native creator UI, Sara/Ainul portraits, product analysis, wearable Master Frame, six-panel Storyboard and locked 10s Video Prompt flow. External AI required for images and video. Direct VOZLO payment is planned, NOT active. Back up .vzl projects before updating.",
   "required": false
 }
